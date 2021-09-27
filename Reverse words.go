@@ -17,6 +17,6 @@ func ReverseWords(str string) string {
 }
 
 func main() {
-	print(ReverseWords("str Tst"))
+	print(ReverseWords("name Tst"))
 
 }
